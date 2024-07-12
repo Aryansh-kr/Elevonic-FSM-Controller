@@ -23,7 +23,7 @@ This project implements a Finite State Machine (FSM) for an advanced elevator co
 
 1. **Clone the Repository**
     ```bash
-    git clone [<project-url>](https://github.com/Aryansh-kr/Elevonic-FSM-Controller)
+    git clone [project-url](https://github.com/Aryansh-kr/Elevonic-FSM-Controller)
     cd advanced-elevator-controller
     ```
 
